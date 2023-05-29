@@ -23,10 +23,10 @@ Extracting Social Data from Facebook
 To extract social data from Facebook, follow these steps:
 
 # Go to the Facebook Developers website.
-Navigate to the Tools section.
-Select the Graph API Explorer tool.
-Log in to your Facebook account.
-After logging in, click on the Get Access button and select the desired Facebook permissions that you require for extracting data.
-Once you have obtained the necessary permissions, you will receive an access token.
-Copy the access token and paste it into the appropriate field in the program.
-Run the program to extract Facebook posts using the provided access token.
+Navigate to the Tools section.\
+Select the Graph API Explorer tool.\
+Log in to your Facebook account.\
+After logging in, click on the Get Access button and select the desired Facebook permissions that you require for extracting data.\
+Once you have obtained the necessary permissions, you will receive an access token.\
+Copy the access token and paste it into the appropriate field in the program.\
+Run the program to extract Facebook posts using the provided access token.\
