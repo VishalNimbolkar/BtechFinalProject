@@ -30,3 +30,6 @@ After logging in, click on the Get Access button and select the desired Facebook
 Once you have obtained the necessary permissions, you will receive an access token.\
 Copy the access token and paste it into the appropriate field in the program.\
 Run the program to extract Facebook posts using the provided access token.\
+
+# Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
